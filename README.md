@@ -6,7 +6,7 @@ A simple CLI password generator written in Python.
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/EyeSeeThru/password-generator.git
 cd password-generator
 
 # Make executable
